@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnumLei/EnumLei.iml" filepath="$PROJECT_DIR$/EnumLei/EnumLei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOStudy/IOStudy.iml" filepath="$PROJECT_DIR$/IOStudy/IOStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" filepath="$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changyonglei/changyonglei.iml" filepath="$PROJECT_DIR$/changyonglei/changyonglei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanxing/fanxing.iml" filepath="$PROJECT_DIR$/fanxing/fanxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javastudysgg.iml" filepath="$PROJECT_DIR$/javastudysgg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jihe/jihe.iml" filepath="$PROJECT_DIR$/jihe/jihe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiancheng/xiancheng.iml" filepath="$PROJECT_DIR$/xiancheng/xiancheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhujie/zhujie.iml" filepath="$PROJECT_DIR$/zhujie/zhujie.iml" />
+    </modules>
+  </component>
+</project>
